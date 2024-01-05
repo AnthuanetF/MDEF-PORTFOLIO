@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "anthuanet falcon",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -101,7 +101,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "jnb0aqfyts",
+    "mbrsiteDomain": "mgijn9opzy",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
