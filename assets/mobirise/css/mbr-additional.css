@@ -12411,8 +12411,6 @@ a {
 .cid-u5vrCV1YXG img,
 .cid-u5vrCV1YXG .item-img {
   width: 100%;
-  height: 300px;
-  object-fit: cover;
 }
 .cid-u5vrCV1YXG .item-wrapper {
   position: relative;
