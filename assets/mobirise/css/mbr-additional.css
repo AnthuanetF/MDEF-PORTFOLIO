@@ -12285,7 +12285,7 @@ a {
 }
 .cid-u9Qr2v97Hf {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-u9Qr2v97Hf .mbr-fallback-image.disabled {
@@ -12443,8 +12443,8 @@ a {
   max-width: 800px;
 }
 .cid-u9QT96BjGF {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/drew-mcnaughton-m-qjjzgvszm-unsplash-2000x2667.jpg");
 }
 .cid-u9QT96BjGF .mbr-fallback-image.disabled {
@@ -12460,7 +12460,7 @@ a {
   top: 0;
 }
 .cid-u9QT96BjGF .card-wrapper {
-  background: #5dfa89;
+  background: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-u9QT96BjGF .card-wrapper {
@@ -12532,7 +12532,7 @@ a {
   margin: 0;
 }
 .cid-u9utF6UKUL .mbr-section-title {
-  color: #260a30;
+  color: #000000;
 }
 .cid-u9utF6UKUL .header-menu-item {
   color: #ffffff;
@@ -12544,6 +12544,27 @@ a {
 }
 .cid-u9utF6UKUL .content-head {
   max-width: 800px;
+}
+.cid-ua7nctU10u {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-ua7nctU10u .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ua7nctU10u .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ua7nctU10u .mbr-section-title {
+  color: #000000;
+  text-align: center;
 }
 .cid-u5v7n8jLSE {
   padding-top: 8rem;
@@ -12703,7 +12724,7 @@ a {
 }
 .cid-u9FFSqG4yX {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #edefeb;
 }
 .cid-u9FFSqG4yX .mbr-fallback-image.disabled {
