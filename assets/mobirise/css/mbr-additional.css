@@ -14574,7 +14574,7 @@ a {
 .cid-ubNThIEKCp .mbr-text,
 .cid-ubNThIEKCp .mbr-section-btn {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-ubNThIEKCp .content-head {
   max-width: 800px;
@@ -14684,7 +14684,7 @@ a {
 }
 .cid-ubNZ1XXXH8 .card-text3,
 .cid-ubNZ1XXXH8 .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-ubNZ1XXXH8 .card-text1,
 .cid-ubNZ1XXXH8 .mbr-section-btn {
@@ -14933,6 +14933,29 @@ a {
 .cid-ubO5AwbOB4 .mbr-section-btn {
   color: #ffffff;
 }
+.cid-ubO73qTK9Z {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+.cid-ubO73qTK9Z .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ubO73qTK9Z .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ubO73qTK9Z .row {
+  flex-direction: row-reverse;
+}
+.cid-ubO73qTK9Z .mbr-description {
+  color: #d8fa36;
+}
 .cid-ubNThHqiJf {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -14964,26 +14987,6 @@ a {
 .cid-ubNThHqiJf .mbr-text,
 .cid-ubNThHqiJf .mbr-section-btn {
   color: #f7f7f7;
-}
-.cid-ubO73qTK9Z {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #ffffff;
-}
-.cid-ubO73qTK9Z .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ubO73qTK9Z .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-ubO73qTK9Z .row {
-  flex-direction: row-reverse;
 }
 .cid-ubNThKb5HJ {
   padding-top: 30px;
