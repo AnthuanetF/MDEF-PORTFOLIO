@@ -16628,6 +16628,7 @@ a {
 }
 .cid-ufic4McKk9 .mbr-section-subtitle {
   color: #ffffff;
+  text-align: center;
 }
 .cid-ufic4McKk9 .mbr-text {
   color: #45fe79;
@@ -16654,8 +16655,48 @@ a {
   color: #ffffff;
 }
 .cid-udpy4HHQeW .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
+  text-align: center;
+}
+.cid-ugkBX1v3xT {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #000000;
+}
+.cid-ugkBX1v3xT .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ugkBX1v3xT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 767px) {
+  .cid-ugkBX1v3xT .card-content-text {
+    padding: 0 1.5rem 1.5rem 1.5rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-ugkBX1v3xT .card-content-text {
+    padding: 0 2.25rem 2.25rem 2.25rem;
+  }
+}
+.cid-ugkBX1v3xT .card-wrapper {
+  background: #ffffff;
+}
+.cid-ugkBX1v3xT .mbr-text,
+.cid-ugkBX1v3xT .mbr-section-btn {
+  color: #000000;
   text-align: left;
+}
+.cid-ugkBX1v3xT .card-title,
+.cid-ugkBX1v3xT .card-box {
+  text-align: left;
+  color: #000000;
 }
 .cid-ughVkIpOnT {
   padding-top: 6rem;
@@ -16701,151 +16742,6 @@ a {
 .cid-ughVkIpOnT .mbr-text,
 .cid-ughVkIpOnT .mbr-section-btn {
   color: #232323;
-}
-.cid-ugi1NJlX4W {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #000000;
-}
-.cid-ugi1NJlX4W .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ugi1NJlX4W .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-ugi1NJlX4W .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-ugi1NJlX4W .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-ugi1NJlX4W .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-ugi1NJlX4W .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-ugi1NJlX4W .mbr-section-title {
-  color: #45fe79;
-}
-.cid-ugi1NJlX4W .mbr-text,
-.cid-ugi1NJlX4W .mbr-section-btn {
-  color: #232323;
-}
-.cid-udpy4Ix7JT {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/drew-mcnaughton-m-qjjzgvszm-unsplash-2000x2667.jpg");
-}
-.cid-udpy4Ix7JT .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-udpy4Ix7JT .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-udpy4Ix7JT .card-wrapper {
-  background: #000000;
-}
-@media (max-width: 767px) {
-  .cid-udpy4Ix7JT .card-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-udpy4Ix7JT .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-udpy4Ix7JT .card-wrapper {
-    padding: 9rem 4rem;
-  }
-}
-.cid-udpy4Ix7JT .mbr-text,
-.cid-udpy4Ix7JT .mbr-section-btn {
-  color: #000000;
-  text-align: center;
-}
-.cid-udpy4Ix7JT .card-title,
-.cid-udpy4Ix7JT .card-box {
-  text-align: center;
-  color: #5dfa89;
-}
-.cid-udpy4INhHQ {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/drew-mcnaughton-m-qjjzgvszm-unsplash-2000x2667.jpg");
-}
-.cid-udpy4INhHQ .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-udpy4INhHQ .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-udpy4INhHQ .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-udpy4INhHQ .image-wrap img {
-    display: block;
-    margin: auto;
-  }
-}
-.cid-udpy4INhHQ .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-udpy4INhHQ .header-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-udpy4INhHQ .header-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-udpy4INhHQ .header-menu li p {
-  margin: 0;
-}
-.cid-udpy4INhHQ .mbr-section-title {
-  color: #000000;
-}
-.cid-udpy4INhHQ .header-menu-item {
-  color: #ffffff;
-}
-.cid-udpy4INhHQ .mbr-text,
-.cid-udpy4INhHQ .mbr-section-btn {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-udpy4INhHQ .content-head {
-  max-width: 800px;
 }
 .cid-ugiatdUNV7 {
   padding-top: 3rem;
@@ -17122,6 +17018,151 @@ a {
 }
 .cid-ugiatdUNV7 H3 {
   color: #45fe79;
+}
+.cid-ugi1NJlX4W {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+.cid-ugi1NJlX4W .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ugi1NJlX4W .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-ugi1NJlX4W .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ugi1NJlX4W .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-ugi1NJlX4W .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-ugi1NJlX4W .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-ugi1NJlX4W .mbr-section-title {
+  color: #45fe79;
+}
+.cid-ugi1NJlX4W .mbr-text,
+.cid-ugi1NJlX4W .mbr-section-btn {
+  color: #232323;
+}
+.cid-udpy4Ix7JT {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/drew-mcnaughton-m-qjjzgvszm-unsplash-2000x2667.jpg");
+}
+.cid-udpy4Ix7JT .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-udpy4Ix7JT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-udpy4Ix7JT .card-wrapper {
+  background: #000000;
+}
+@media (max-width: 767px) {
+  .cid-udpy4Ix7JT .card-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-udpy4Ix7JT .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-udpy4Ix7JT .card-wrapper {
+    padding: 9rem 4rem;
+  }
+}
+.cid-udpy4Ix7JT .mbr-text,
+.cid-udpy4Ix7JT .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-udpy4Ix7JT .card-title,
+.cid-udpy4Ix7JT .card-box {
+  text-align: center;
+  color: #5dfa89;
+}
+.cid-udpy4INhHQ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/drew-mcnaughton-m-qjjzgvszm-unsplash-2000x2667.jpg");
+}
+.cid-udpy4INhHQ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-udpy4INhHQ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-udpy4INhHQ .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-udpy4INhHQ .image-wrap img {
+    display: block;
+    margin: auto;
+  }
+}
+.cid-udpy4INhHQ .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-udpy4INhHQ .header-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-udpy4INhHQ .header-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-udpy4INhHQ .header-menu li p {
+  margin: 0;
+}
+.cid-udpy4INhHQ .mbr-section-title {
+  color: #000000;
+}
+.cid-udpy4INhHQ .header-menu-item {
+  color: #ffffff;
+}
+.cid-udpy4INhHQ .mbr-text,
+.cid-udpy4INhHQ .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-udpy4INhHQ .content-head {
+  max-width: 800px;
 }
 .cid-udpy4HYB2J {
   padding-top: 4rem;
