@@ -1325,6 +1325,11 @@ a {
 }
 .cid-tVx5mR3lSp .mbr-section-title {
   text-align: right;
+  color: #ffffff;
+}
+.cid-tVx5mR3lSp .mbr-text,
+.cid-tVx5mR3lSp .mbr-section-btn {
+  color: #2c3dff;
 }
 .cid-tJS6uM4N87 {
   padding-top: 9rem;
@@ -1352,11 +1357,11 @@ a {
   background: #2b7a69;
 }
 .cid-tJS6uM4N87 .mbr-section-title {
-  color: #ffffff;
+  color: #2c3dff;
 }
 .cid-tJS6uM4N87 .mbr-text,
 .cid-tJS6uM4N87 .mbr-section-btn {
-  color: #c84b04;
+  color: #ffffff;
 }
 .cid-u5ruLLswVf {
   padding-top: 30px;
@@ -7231,107 +7236,32 @@ a {
 .cid-u327xWiHLf .mbr-section-btn {
   color: #f7f7f7;
 }
-.cid-u4WxneY7b7 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #2f54ff;
-}
-.cid-u4WxneY7b7 .mbr-text {
-  color: #000000;
-  text-align: left;
-}
-.cid-u4WxneY7b7 .mbr-section-subtitle {
-  color: #000000;
-  text-align: center;
-}
-.cid-u4WxneY7b7 .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
-.cid-u4WxneY7b7 .content-head {
-  max-width: 800px;
-}
-.cid-u4WxneY7b7 .mbr-card-subtitle {
-  color: #000000;
-  text-align: left;
-}
-.cid-u4WxneY7b7 .mbr-card-title {
-  text-align: left;
-  color: #000000;
-}
-.cid-u4WwIIrYLo {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
-  background-color: #ba4410;
-}
-.cid-u4WwIIrYLo img,
-.cid-u4WwIIrYLo .item-img {
-  width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
-}
-.cid-u4WwIIrYLo .item:focus,
-.cid-u4WwIIrYLo span:focus {
-  outline: none;
-}
-.cid-u4WwIIrYLo .item {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-u4WwIIrYLo .item {
-    margin-bottom: 1rem;
-  }
-}
-.cid-u4WwIIrYLo .item-content {
-  margin-top: 2rem;
-  padding: 0 2.25rem 2.25rem;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-u4WwIIrYLo .item-content {
-    padding: 2rem 1.5rem;
-    padding-top: 1rem;
-    margin-top: 1rem;
-  }
-}
-.cid-u4WwIIrYLo .item-wrapper {
-  position: relative;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-.cid-u4WwIIrYLo .item-wrapper .item-footer {
-  margin-top: auto;
-}
-.cid-u4WwIIrYLo .mbr-section-title {
-  color: #000000;
-}
-.cid-u4WwIIrYLo .item-title {
-  text-align: left;
-}
-.cid-u4WwIIrYLo .item-subtitle {
-  text-align: left;
-}
-.cid-u4WwIIrYLo .mbr-text,
-.cid-u4WwIIrYLo .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-u4WwIIrYLo .content-head {
-  max-width: 800px;
-}
-.cid-u327xXqXJP {
+.cid-uhs7MoVmYT {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-u327xXqXJP .mbr-fallback-image.disabled {
+.cid-uhs7MoVmYT .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u327xXqXJP .mbr-fallback-image {
+.cid-uhs7MoVmYT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uhs7nQoF00 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-uhs7nQoF00 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uhs7nQoF00 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -7341,32 +7271,32 @@ a {
   top: 0;
 }
 @media (max-width: 991px) {
-  .cid-u327xXqXJP .image-wrapper {
+  .cid-uhs7nQoF00 .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-u327xXqXJP .row {
+.cid-uhs7nQoF00 .row {
   flex-direction: row-reverse;
 }
-.cid-u327xXqXJP .row {
+.cid-uhs7nQoF00 .row {
   align-items: center;
 }
 @media (max-width: 991px) {
-  .cid-u327xXqXJP .image-wrapper {
+  .cid-uhs7nQoF00 .image-wrapper {
     padding: 1rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-u327xXqXJP .text-wrapper {
+  .cid-uhs7nQoF00 .text-wrapper {
     padding: 0 2rem;
   }
 }
-.cid-u327xXqXJP .mbr-section-title {
-  color: #000000;
+.cid-uhs7nQoF00 .mbr-section-title {
+  color: #ffffff;
 }
-.cid-u327xXqXJP .mbr-text,
-.cid-u327xXqXJP .mbr-section-btn {
-  color: #232323;
+.cid-uhs7nQoF00 .mbr-text,
+.cid-uhs7nQoF00 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-uaoLfsmiRR {
   z-index: 1000;
